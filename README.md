@@ -1,1 +1,1 @@
-Daily problems of HackerRank with java problmes solved
+Daily problems of java from HackerRank solved.
